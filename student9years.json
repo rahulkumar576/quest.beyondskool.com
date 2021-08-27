@@ -1,0 +1,246 @@
+{ 
+    "questions" : [
+        {   
+            "section": "STEM Innovation",
+            "question": "What will happen if an equal force is applied to an object from both sides?",
+            "choices": ["It will move to the right.", "It will move to the left.", "It won’t move.", "I don’t know."],
+            "correctAnswer": "It won’t move.",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/eight/1.png",
+            "questionType": "objective"  
+        },  
+        {  
+            "section": "STEM Innovation",
+            "question": "What shape should a building be for it to be the strongest?",
+            "choices": ["A rectangle – like most buildings.", "A triangle – like the Eiffel Tower", "A circular shape – like a dome.", "All will be equally strong."],
+            "correctAnswer": "A triangle – like the Eiffel Tower",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/eight/2.png" ,
+            "questionType": "objective"       
+        },
+        {   
+            "section": "STEM Innovation",
+            "question": "There are two roads to the top of a mountain. One is less steep but longer and one is very steep but shorter. Which would be easier to climb?",
+            "choices": ["The less steep but longer one.", "The more steep but shorter one.", "Both will be equally easy.", "I don’t know."],
+            "correctAnswer": "The less steep but longer one.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/eight/3.png",
+            "questionType": "objective" 
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "I am home, and I have run out of clean water to drink. I only have tap water. How can I make it drinkable?",
+            "choices": [" I’ll just have to wait for someone to give me water.", "I am really thirsty, if I drink it just once, it’s okay.", "I can put it in the micro-wave and make it really, really hot. This will kill all the germs.", "I’ll just strain the water with a tea-strainer and then it’ll be clean."],
+            "correctAnswer": "I can put it in the micro-wave and make it really, really hot. This will kill all the germs.",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/eight/4.png",
+            "questionType": "objective"          
+        },  
+        {
+            "section": "STEM Innovation",
+            "question": "How many folds will you need to make a computer paper into a triangle?",
+            "choices": ["One fold.", "Two Folds.", "Three folds.", "Can't be done."],
+            "correctAnswer": "Two folds.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/eight/5.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "What can you create if you knew coding?",
+            "choices": ["A website.", "A game.", "A robot.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/eight/6.png"   ,
+            "questionType": "objective"       
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "I am an astronaut in space and I want to watch TV which is nailed to the ground. However, I keep floating around! What can I do to stay on the ground?",
+            "choices": ["I can put rocks in my pocket, so the weight makes me not float.", "I can put glue on my pants so I stick to the ground.", "I hold onto the TV, so I don’t _oat.", "You can’t solve this problem."],
+            "correctAnswer": "I can put rocks in my pocket, so the weight makes me not float.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/eight/7.png",
+            "questionType": "objective"   
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "Which of these is not a simple machine?",
+            "choices": ["Wheel", "Pulley", "Inclined Plane", "A computer"],
+            "correctAnswer": "A Computer",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/eight/8.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "LogiMath",
+            "question": "Which is the odd one out?",
+            "choices": ["Horse - Stable", "Lion - Den", "Rabbit - Shed", "Dog - Kennel"],
+            "correctAnswer": "Rabbit - Shed",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/9.png",
+            "questionType": "objective"          
+        }, 
+        {
+            "section": "LogiMath",
+            "question": "There are chickens and cows in a farm. You counted 24 legs in all. What combinations of number of cows and number of chickens below can be true?",
+            "choices": ["1 cow and 10 chickens", "2 cows and 8 chickens", "Both of these.", "None of these."],
+            "correctAnswer": "Both of these",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/10.png",
+            "questionType": "objective"          
+        }, 
+        {
+            "section": "LogiMath",
+            "question": "Rahul and Aarav both make the same size of pizza. Rahul divides his into two equal pieces and Aarav into three equal pieces. They both eat one piece. Who ate more?",
+            "choices": ["Rahul", "Aarav", "Both ate the same.", "I don’t know."],
+            "correctAnswer": "Rahul",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/11.png" ,
+            "questionType": "objective"         
+        },
+        {
+            "section": "LogiMath",
+            "question": "If you have the below code – how would you spell “Happy?",
+            "choices": ["81665", "81161625", "8116625", "8166125"],
+            "correctAnswer": "81161625",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/12.png",
+            "questionType": "objective"          
+        }, 
+         
+        {
+            "section": "LogiMath",
+            "question": "How many children were asked about their favourite Superhero? (CQ) (Refer to the given chart.) ",
+            "choices": ["69", "190", "181", "20"],
+            "correctAnswer": "181",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/13.png",
+            "questionType": "objective"          
+        }, 
+        {
+            "section": "LogiMath",
+            "question": "How many more children like Spiderman over Batman? (IQ) (Refer to the given chart.) ",
+            "choices": ["55", "14", "69", "10"],
+            "correctAnswer": "10",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/14.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "LogiMath",
+            "question": "A pack of cards has 52 cards. 26 cards are red, and 26 cards are black. If you had to pick only one card, what are the chances that it will be black?",
+            "choices": ["It won’t be black.", "There’s a very small chance it will be back.", "There’s an equal chance it will be black or red.", "It will only be black."],
+            "correctAnswer": "There’s an equal chance it will be black or red.",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/15.png",
+            "questionType": "objective" 
+        }, 
+         {
+            "section": "LogiMath",
+            "question": "Refer to the given chart - To not get corona you need to:",
+            "choices": ["Only wash hands.", "Only wear a mask.", "Only stay away from crowds.", "Do all three."],
+            "correctAnswer": "Do all three.",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "qimage": "images/eight/16.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "What is the meaning of ‘critiquing’?",
+            "choices": ["To judge if something is good or bad – a toy or a movie.", "To talk about all the things I like about something – a toy or a movie.", "To talk about all the things I don’t like about something – a toy or a movie.", "I don’t know."],
+            "correctAnswer": "To judge if something is good or bad – a toy or a movie.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/17.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "A critique saw a movie, and he told everyone – “It’s a really rubbish movie. No one should watch it!” Do you think this is a good review? Why or why not?",
+            "choices": ["This isn’t a good review – he needs to tell me why he thinks it’s bad.", "This is a good review.", "This is a good review– he gave his opinion.", "This isn’t a good review – it’s not okay that he doesn’t like it."],
+            "correctAnswer": "This isn’t a good review – he needs to tell me why he thinks it’s bad.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/18.png",
+            "questionType": "objective"          
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "If you had to create a story book, what are all the things you would have to think about?",
+            "choices": ["The hero and villain of my book.", "The story.", "The place where it is all happening.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/19.png",
+            "questionType": "objective"          
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "What is a debate?",
+            "choices": ["Fighting about something.", "Talking about something where people have different opinions than us.", "When we stop talking to people who have different opinions than us.", "I don’t know."],
+            "correctAnswer": "Talking about something where people have different opinions than us.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/20.png"  ,
+            "questionType": "objective"        
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "What is not the best use of a blog?",
+            "choices": ["To pen down my thoughts.", "To write down questions and answers from my school textbook.", "To write reviews.", "I don’t know what a blog is."],
+            "correctAnswer": ") To write down questions and answers from my school textbook.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/21.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "What does it mean to be ‘persuasive’?",
+            "choices": ["To get someone to listen to me.", "To fight with someone.", "To listen to someone.", "I don’t know."],
+            "correctAnswer": "To get someone to listen to me.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/22.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "If you had to convince your teacher to be a monitor, what would you tell her?",
+            "choices": ["I would tell her, “Please make me a monitor! ”.", "I would tell her, “I will feel really bad if you don’t make me one.”", "I would tell her, “I will not listen to you anymore if you don’t make me one.”", "I would tell her, “If I got a chance to be one, I’ll ensure I’ll be the best monitor ever.”"],
+            "correctAnswer": "I would tell her, “If I got a chance to be one, I’ll ensure I’ll be the best monitor ever.”",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/23.png" ,
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Leadership Communication",
+            "question": "What will I have to do if I want to be a you-tuber?",
+            "choices": ["I record any video I want.", "I think about a topic I want to speak about, then record a video.", "I think about a topic, record a video and then put it on YouTube.", "I don’t know who a YouTuber is!"],
+            "correctAnswer": "I think about a topic, record a video and then put it on YouTube.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/eight/24.png" ,
+            "questionType": "objective"         
+        }
+        
+    ]
+}

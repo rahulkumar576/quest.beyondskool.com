@@ -1,0 +1,279 @@
+{ 
+    "questions" : [
+        {   
+            "section": "STEM Innovation",
+            "question": "What are the states of water?",
+            "choices": ["Water and ice.", "Water, ice and rain.", "Water, ice and steam.", "I don’t know."],
+            "correctAnswer": "Water, ice and steam.",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/background/stem.jpeg",
+            "qimage": "images/six/ques/1.png",
+            "questionType": "objective"
+        }, 
+        {  
+            "section": "STEM Innovation",
+            "question": "My ice-cream is about to melt and the freezer isn’t working! How can I stop it from melting?",
+            "choices": ["I can put it under a tap of water.", "I can put it in a tub of water.", "I can put in a tub of ice.", "I don’t think I can stop it."],
+            "correctAnswer": "I can put in a tub of ice.",
+            "category": "CQ",
+            "subject": "stem",
+            "image": "images/six/new/2.jpg",
+            "qimage": "images/six/ques/2.png",
+            "questionType": "objective"
+        },    
+        {   
+            "section": "STEM Innovation",
+            "question": "Which of the following options  is a metal?",
+            "choices": ["Plastic", "Copper.", "Paper", "Wood"],
+            "correctAnswer": "Copper",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/six/new/3.jpg",
+            "qimage": "images/six/ques/3.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "STEM Innovation",
+            "question": "This is a cylinder. If you had to look at it from the top, what would you see?",
+            "choices": ["It will look the same.", "It will look like a circle.", "It will look like a square.", "It will look like a rectangle."],
+            "correctAnswer": "It will look like a circle.",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/six/new/4.jpg",
+            "qimage": "images/six/ques/4.png",
+            "questionType": "objective"
+        },    
+        {
+            "section": "STEM Innovation",
+            "question": "How many folds will you need to make a computer paper into a triangle?",
+            "choices": ["One fold.", "Two Folds.", "Three folds.", "Can't be done."],
+            "correctAnswer": "Two folds.",
+            "category": "CQ",
+            "subject": "stem",
+            "image": "images/six/new/5.jpg",
+            "qimage": "images/six/ques/5.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "STEM Innovation",
+            "question": "What can you create if you know coding?",
+            "choices": ["A website.", "A game.", "A robot.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/six/new/6.jpg",
+            "qimage": "images/six/ques/6.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "STEM Innovation",
+            "question": "What do you think Gravity is?",
+            "choices": ["Gravity is a force which keeps us on the ground.", "Gravity is a machine.", "Gravity is what helps us fly in an aeroplane.", "Gravity is a force which helps cars go really fast."],
+            "correctAnswer": "Gravity is a force which keeps us on the ground.",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/six/new/7.jpg",
+            "qimage": "images/six/ques/7.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "STEM Innovation",
+            "question": "I am home, and I have run out of clean water to drink. I only have tap water. How can I make it drinkable?",
+            "choices": ["I’ll just have to wait for someone to give me water.", "I am really thirsty, if I drink it just once, it’s okay.", "I can put it in the micro-wave and make it really, really hot. This will kill all the germs.", "I’ll just strain the water with a tea-strainer and then it’ll be clean."],
+            "correctAnswer": "I can put it in the micro-wave and make it really, really hot. This will kill all the germs.",
+            "category": "CQ",
+            "subject": "stem",
+            "image": "images/six/new/8.jpg",
+            "qimage": "images/six/ques/8.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "STEM Innovation",
+            "question": "Which one of these is soluble in water?",
+            "choices": ["Salt", "Sugar", "Chilli powder", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "IQ",
+            "subject": "stem",
+            "image": "images/six/new/9.jpg",
+            "qimage": "images/six/ques/9.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "LogiMath",
+            "question": "Which is the odd one out?",
+            "choices": ["Horse - Stable", "Lion - Den", "Rabbit - Shed", "Dog - Kennel"],
+            "correctAnswer": "Rabbit - Shed",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/10.jpg",
+            "qimage": "images/six/ques/10.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "LogiMath",
+            "question": "What are all the different ways you can make numbers which add up to 10?",
+            "choices": ["9+1 AND 5+5", "6+3 AND 6+4", "8+1 AND 6+4", "7+7 AND 6+6"],
+            "correctAnswer": "9+1 AND 5+5",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/11.jpg",
+            "qimage": "images/six/ques/11.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "LogiMath",
+            "question": "Rahul and Aarav both make the same size of pizza. Rahul divides his into two equal pieces and Aarav into three equal pieces. They both eat one piece. Who ate more?",
+            "choices": ["Rahul", "Aarav", "Both ate the same.", "I don’t know."],
+            "correctAnswer": "Rahul",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/12.jpg",
+            "qimage": "images/six/ques/12.png",
+            "questionType": "objective"
+        },  
+        {
+            "section": "LogiMath",
+            "question": "If you have the below code – how would you spell “Happy?",
+            "choices": ["81665", "81161625", "8116625", "8166125"],
+            "correctAnswer": "81161625",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/13.jpg",
+            "qimage": "images/six/ques/13.png",
+            "questionType": "objective"
+        },
+        {
+            "section": "LogiMath",
+            "question": "How many children were asked about their favourite Superhero? (CQ) (Use the above chart to answer the question.)",
+            "choices": ["69", "190", "181", "20"],
+            "correctAnswer": "181",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/14.jpg",
+            "qimage": "images/six/ques/14.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "LogiMath",
+            "question": "How many more children like Spiderman over Batman? (IQ) (Refer to the given chart.)",
+            "choices": ["55", "14", "69", "10"],
+            "correctAnswer": "10",
+            "category": "IQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/15.jpg",
+            "qimage": "images/six/ques/15.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "LogiMath",
+            "question": "A pack of cards has 52 cards. 26 cards are red, and 26 cards are black. If you had to pick only one card, what are the chances that it will be black?",
+            "choices": ["It won’t be black.", "There’s a very small chance it will be back.", "There’s an equal chance it will be black or red.", "It will only be black."],
+            "correctAnswer": "There’s an equal chance it will be black or red.",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/16.jpg",
+            "qimage": "images/six/ques/16.png",
+            "questionType": "objective"
+        },   
+         {
+            "section": "LogiMath",
+            "question": "Refer to the given chart and answer this question - To not get corona you need to:",
+            "choices": ["Only wash hands.", "Only wear a mask.", "Do both.", "Do neither."],
+            "correctAnswer": "Do both",
+            "category": "CQ",
+            "subject": "LogiMath",
+            "image": "images/six/new/17.jpg",
+            "qimage": "images/six/ques/17.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "What is the meaning of ‘critiquing’?",
+            "choices": ["To judge if something is good or bad – a toy or a movie.", "To talk about all the things I like about something – a toy or a movie.", "To talk about all the things I don’t like about something – a toy or a movie.", "I don’t know."],
+            "correctAnswer": "To judge if something is good or bad – a toy or a movie.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/18.jpg",
+            "qimage": "images/six/ques/18.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "A critique saw a movie, and he told everyone – “It’s a really rubbish movie. No one should watch it!” Do you think this is a good review? Why or why not?",
+            "choices": ["This isn’t a good review – he needs to tell me why he thinks it’s bad.", "This is a good review.", "This is a good review– he gave his opinion.", "This isn’t a good review – it’s not okay that he doesn’t like it."],
+            "correctAnswer": "This isn’t a good review – he needs to tell me why he thinks it’s bad.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/19.jpg",
+            "qimage": "images/six/ques/19.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "If you had to create a story book, what are all the things you would have to think about?",
+            "choices": ["The hero and villain of my book.", "The story.", "The place where it is all happening.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/20.jpg",
+            "qimage": "images/six/ques/20.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "What is a speech bubble?",
+            "choices": ["It’s the round shape where the words a person speaks are written.", "It’s the round shape where the words a person thinks are written.", "It’s the round shape where the words a person is yelling are written.", "None of these."],
+            "correctAnswer": "It’s the round shape where the words a person speaks are written.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/21.jpg",
+            "qimage": "images/six/ques/21.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "Read this short poem. It’s called a couplet. What are the rhyming words?",
+            "choices": ["Measles and gash", "Measles and mumps", "Mumps and bumps", "Rash and bumps"],
+            "correctAnswer": "Mumps and bumps",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/22.jpg",
+            "qimage": "images/six/ques/22.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "What does it mean to be ‘persuasive’?",
+            "choices": ["To get someone to listen to me.", "To fight with someone.", "To listen to someone.", "I don’t know."],
+            "correctAnswer": "To get someone to listen to me.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/23.jpg",
+            "qimage": "images/six/ques/23.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "If you had to convince your parents to buy you a new toy, what would you tell them?",
+            "choices": ["I would tell them “Please buy me a toy”.", "I would tell them “This is the toy I want because it will help me learn, may I please have it?”", "I would tell them “If you don’t get me this toy, I will cry.”", "I would stop talking to them, if they don’t buy me one."],
+            "correctAnswer": "I would tell them “This is the toy I want because it will help me learn, may I please have it?”",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/24.jpg",
+            "qimage": "images/six/ques/24.png",
+            "questionType": "objective"
+        },   
+        {
+            "section": "Leadership Communication",
+            "question": "What will I have to do if I want to be a you-tuber?",
+            "choices": ["I record any video I want.", "I think about a topic I want to speak about, then record a video.", "I think about a topic, record a video and then put it on YouTube.", "I don’t know who a YouTuber is!"],
+            "correctAnswer": "I think about a topic, record a video and then put it on YouTube.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "image": "images/six/new/25.jpg",
+            "qimage": "images/six/ques/25.png",
+            "questionType": "objective"        
+        }       
+    ]
+}

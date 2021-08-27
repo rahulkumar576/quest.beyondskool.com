@@ -1,0 +1,285 @@
+{ 
+    "questions" : [
+        {   
+            "section": "Leadership Communication",
+            "question": "Look at the excerpt above, where do you think this excerpt has been taken from?",
+            "choices": ["A Novel.", "A fiction book.", "A screen play.", "Could be any book."],
+            "correctAnswer": "A screen play.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/1.png",
+            "questionType": "objective"
+        },  
+        {   
+            "section": "Leadership Communication",
+            "question": "Look at the excerpt above, where do you think the scene is happening?",
+            "choices": ["A small, one storeyed house with a terrace.", "A small, one storeyed house with a basement.", "A medium sized building.", "A high rise. "],
+            "correctAnswer": "A small, one storeyed house with a basement.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/1.png",
+            "questionType": "objective"
+        }, 
+       {   
+            "section": "Leadership Communication",
+            "question": "Look at the excerpt above, the first line says “INT.BASEMENT”. What do you think INT means in script writing?",
+            "choices": ["Exterior.", "Interior.", "Into.", "None of these."],
+            "correctAnswer": "Interior.",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/1.png",
+            "questionType": "objective"
+        },  
+        {   
+            "section": "Leadership Communication",
+            "question": "What do you think an elevator pitch is?",
+            "choices": ["A conversation you have in an elevator.", "A very short, persuasive speech that can get someone’s interest.", "A long speech you use to convince others.", "None of these."],
+            "correctAnswer": "A very short, persuasive speech that can get someone’s interest.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/4.png",
+            "questionType": "objective"
+        },   
+        {   
+            "section": "Leadership Communication",
+            "question": "You really think people should stop using plastic bags because it’s bad for the environment. Prepare an elevator speech to convince more people.",
+            "choices": ["Plastic is bad, and you should just stop.", "Every plastic bag takes 500 years to disintegrate. If we keep using them earth is going to become one giant landfill. Switch to cloth!", "You know what is better than plastic bags? Cloth bags! I made this one myself – it’s on sale for Rupees 50!", "Plastic is bad – all intelligent people know it. So stop if you think you are intelligent."],
+            "correctAnswer": "Every plastic bag takes 500 years to disintegrate. If we keep using them earth is going to become one giant landfill. Switch to cloth!",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/5.png",
+            "questionType": "objective"
+        }, 
+        {   
+            "section": "Leadership Communication",
+            "question": "What is the difference between a graphic novel and a comic book?",
+            "choices": ["A graphic novel is longer than a comic book.", "A graphic novel tells an entire story versus a comic book which has parts.", "Both (a) & (b)", "None of these."],
+            "correctAnswer": "Both (a) & (b)",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/6.png",
+            "questionType": "objective"
+        },  
+        {   
+            "section": "Leadership Communication",
+            "question": "A logo is a symbol which a brand uses. Why do you think brands have logos?",
+            "choices": ["It makes it easy for people to recognize a brand.", "Logos look nice and colourful and hence brands use them.", "All brands don’t have logos.", "None of these."],
+            "correctAnswer": "It makes it easy for people to recognize a brand.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/7.png",
+            "questionType": "objective"
+        }, 
+        {   
+            "section": "Leadership Communication",
+            "question": "Look at this Lego advertisement. What do you think they are trying to tell people your age?",
+            "choices": ["They are showing you how to build boats and dinosaurs and aeroplanes and tanks.", "They are showing us what all you can build with Lego.", "They are telling us that you can make anything you imagine with Lego.", "I don’t understand this advertisement, planes can’t be red."],
+            "correctAnswer": " They are telling us that you can make anything you imagine with Lego.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/10-12_m-08.png",
+            "questionType": "objective"
+        },  
+        {   
+            "section": "Leadership Communication",
+            "question": "What is true about Twitter and Facebook? Please mark the ‘true’ statement.",
+            "choices": ["On Twitter I can connect with all my friends and we can talk.", "Facebook is where I only have posts which have 140 characters.", "Twitter has a blue bird symbol as a logo.", "I am not sure."],
+            "correctAnswer": "Twitter has a blue bird symbol as a logo.",
+            "category": "EQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/8.png",
+            "questionType": "objective"
+        }, 
+       {   
+            "section": "Leadership Communication",
+            "question": " I want to talk to people about my passion – chess. I want more people to play it, and therefore I want to teach them how to play. Which platform should I use? (CQ) ",
+            "choices": ["Twitter", "Facebook", "YouTube", "Instagram"],
+            "correctAnswer": "YouTube",
+            "category": "CQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/.9",
+            "questionType": "objective"
+        }, 
+        {   
+            "section": "Leadership Communication",
+            "question": " What is a Model United Nations?",
+            "choices": ["Where we meet students from other countries.", "A place where students get a chance to represent a country and try to solve major world problems.", "Where we try to make friends and therefore it’s called “united”.", "None of these."],
+            "correctAnswer": "A place where students get a chance to represent a country and try to solve major world problems.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/10.png",
+            "questionType": "objective"
+        }, 
+        {   
+            "section": "Leadership Communication",
+            "question": " An op-ed, is a newspaper article where someone can give this opinion on any topic. Look at the head-lines below, which one do you think is an op-ed?",
+            "choices": ["There was a fire at the Serum Institute, in Pune.", "Schools continue to remain closed, because of the corona virus.", "Keeping students out of school, may not be best for them.", "None of these."],
+            "correctAnswer": "Keeping students out of school, may not be best for them.",
+            "category": "IQ",
+            "subject": "Leadership Communication",
+            "qimage": "images/ten/11.png",
+            "questionType": "objective"
+        }, 
+        {
+            "section": "Applied Math",
+            "question": "Currencies for different countries are different like the : dollar, the euro, the yen etc. All these currencies can be bought and sold.<br>Imagine you are going to Europe, and need the € (Euro). The current rate of exchange is: € 1 = INR 65 <br>How many € will you get for INR 1040?",
+            "choices": ["12", "10", "16", "None of these"],
+            "correctAnswer": "16",
+            "category": "IQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/12.png",
+            "questionType": "objective"       
+        }, 
+          {
+            "section": "Applied Math",
+            "question": "The current rate of exchange for the Indian Rupee is:<br>$1= INR 75 [A $ (dollar) is the currency for America]<br>£1 = INR 100 [A £ (pound) is the currency for Britain]<br>If I exchanged INR 5000, how many more dollars versus pounds would I get?",
+            "choices": ["I would get 10 more dollars.", "I would get 5 more dollars.", "I would get 15 more dollars.", "I would not get more  dollars, I would get more pounds."],
+            "correctAnswer": "I would get 15 more dollars.",
+            "category": "IQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/13.png" ,
+            "questionType": "objective"      
+        }, 
+          {
+            "section": "Applied Math",
+            "question": "In the school cafeteria, 4 people can sit together at 1 table. If 2 tables are placed together, 6 people can sit together. How many tables must be placed in a row to seat 10?",
+            "choices": ["4", "3", "2", "5"],
+            "correctAnswer": "4",
+            "category": "CQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/14.png",
+            "questionType": "objective"        
+        }, 
+          {
+            "section": "Applied Math",
+            "question": "If I lend someone my money, I am allowed to charge them for it – so when they pay me back they pay me the original amount and something additional. This additional is called interest. <br>I lent my friend Rahul INR 50, and told him he needed to pay me back INR 65.<br>I lent my friend Ali INR 60 and told him he needed to pay me back INR 70.<br>I lent my friend Alia INR 80 and told her she needed to pay me back INR 100.<br>How much interest have I earned by lending my friends the money?",
+            "choices": ["INR 235", "INR  45", "INR 190", "None of these."],
+            "correctAnswer": "INR  45",
+            "category": "CQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/15.png",
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Applied Math",
+            "question": "Joan went fishing. On the first cast she hooked a fish 80 feet from the boat. Each time she reeled in 10 feet of line, the fish would take out 5 feet. How many times did she have to reel in to get the fish to the boat?",
+            "choices": ["8", "16", "32", "None of these"],
+            "correctAnswer": "16",
+            "category": "CQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/16.png",
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Applied Math",
+            "question": "I want to paint my room, this new colour I saw on my computer.  I need to paint 3 of my walls with red, which costs INR 45/sq. feet. And I need to paint 1 of the walls with blue, which costs INR 53/sq. feet. <br>If each wall is measuring 96 sq. feet, what will the paint cost me?",
+            "choices": ["INR 18000", "INR 18048", "INR 9696", "INR 18432"],
+            "correctAnswer": "INR 18048",
+            "category": "IQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/17.png" ,
+            "questionType": "objective"        
+        }, 
+        {
+            "section": "Applied Math",
+            "question": "Every time you play your favourite game on the phone you make a certain score. In the past one week your highest scores every day have been: <br>If I tell you, on ‘average’ you seem to have scored 30 points, what do you think an average is?",
+            "choices": ["I can’t guess.", "The points I have scored on the last day.", "It’s a number which gives me an idea of how much I scored every day in the past week.", "None of these."],
+            "correctAnswer": "It’s a number which gives me an idea of how much I scored every day in the past week.",
+            "category": "IQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/18.png",
+            "questionType": "objective"         
+        }, 
+        {
+            "section": "Applied Math",
+            "question": "In a pack of 52 playing cards, 26 are black and 26 red. Of these 13 are Spades, 13 are Clubs, 13 are Diamonds and 13 are Hearts.<br>If I have to win the game, I need to pick any heart card, from all 52. What are my chances of winning?",
+            "choices": ["100%", "75%", "50%", "25%"],
+            "correctAnswer": "25%",
+            "category": "IQ",
+            "subject": "Applied Math",
+            "qimage": "images/ten/19.png" ,
+            "questionType": "objective"        
+        }, 
+        
+        {
+            "section": "STEM Innovation",
+            "question": "Artificial Intelligence (AI) is when a computer is programmed to do all the things a human being can do. Which of the following is made using AI?",
+            "choices": ["Google Maps – where we can see the directions to where we want to go.", "When I type something on a phone and it tells me I have made a spelling mistake.", "When the phone recognizes my face and unlocks.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/20.png" ,
+            "questionType": "objective"       
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "What is the meaning of an ‘app’?",
+            "choices": [" An app is like a game I play on the phone.", "An app is a short form for the word ‘application’. It is a program used to do many things.", "An app is anything I use on the computer.", "None of these."],
+            "correctAnswer": "An app is a short form for the word ‘application’. It is a program used to do many things.",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/ten/21.png",
+            "questionType": "objective"    
+        }, 
+        {
+            "section": "STEM Innovation",
+            "question": "A reminder app is an app which ensures people don’t forget something. If you had to create one for other people your age, what would be the most useful?",
+            "choices": ["An app that reminds us of when our homework is due.", "An app that reminds us when our online class will start!", "An app that reminds us to wear a mask whenever we go out.", "All of these are very useful."],
+            "correctAnswer": "All of these are very useful.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/22.png" ,
+            "questionType": "objective"        
+        },
+        {
+            "section": "STEM Innovation",
+            "question": "What do you think is the most secure way to lock a phone?",
+            "choices": ["By using a number & letter based password to unlock the phone.", "By making the phone recognize your face before unlocking.", "By making the phone recognize your fingerprint before unlocking.", "None of these are really safe."],
+            "correctAnswer": "By making the phone recognize your fingerprint before unlocking.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/23.png" ,
+            "questionType": "objective"       
+        },
+        {
+            "section": "STEM Innovation",
+            "question": "My friends and I are playing a game of cards. There can only be one winner. I have created an app which tells me what to do to win the game. Would this be the right thing to do?",
+            "choices": ["No, it wouldn’t –  I’d be cheating.", "Yes, it would – I want to win.", "Yes, it would – I just need to let everyone use my app.", "I don’t know."],
+            "correctAnswer": "No, it wouldn’t –  I’d be cheating.",
+            "category": "IQ",
+            "subject": "stem",
+            "qimage": "images/ten/24.png",
+            "questionType": "objective"        
+        },
+        {
+            "section": "STEM Innovation",
+            "question": "What is the most effective solution which ensures I always do my HW on time?",
+            "choices": ["Do it on the same day it’s been given to me.", "Put an alarm on my clock/watch.", "Create an app which reminds me what is due when.", "All of these."],
+            "correctAnswer": "All of these.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/25.png",
+            "questionType": "objective"       
+        },
+        {
+            "section": "STEM Innovation",
+            "question": "We are now going to have cars that do not need human beings to drive them. They will have computers drive them. What will be the best thing about this? ",
+            "choices": ["There will be less accidents because the computer will be able to see all the other cars on the road.", "The cars will be able to drop us where we want and then go park on their own.", "Less drivers will get angry at each other, because they will all be computers!", "All of these are equally good things."],
+            "correctAnswer": "All of these are equally good things.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/26.png",
+            "questionType": "objective"
+        },
+        {   
+            "section": "STEM Innovation",
+            "question": "If you had to create an AI, what would you want it to do?",
+            "correctAnswer": "Water, ice and steam.",
+            "category": "CQ",
+            "subject": "stem",
+            "qimage": "images/ten/27.png",
+            "questionType": "subjective"
+        } 
+        
+    ]
+}
